@@ -4,9 +4,7 @@ This software is a extreme beta version of a program I hope to build in later in
 
 I wrote this software once again because it is a extreme beta version of a program I hope to build. I want to solve the problem that every friend group has struggled with, the hassel of getting the aux passed to you. I want to make it so only one person needs to be connected to the aux or even bluetooth and everyone being able to suggest songs that can be played next. This will make song sharing easier and make driving safer as well since the phone will no longer need to be passed around.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[JukeBox Demo Video](https://youtu.be/17e97X0b9_c)
 
 # Development Environment
 
