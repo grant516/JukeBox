@@ -27,10 +27,6 @@ default_app = firebase_admin.initialize_app(cred)
 
 db = firestore.client()
 
-def get_quote():
-    data_quote = {"quote" : "#BRINGSOBEBACK", "author" : "Chris Vang"}
-    return data_quote
-
 def add_song_to_list(the_list):
     result_input = input("What song would you like to add? ")
     the_list.append(result_input)
